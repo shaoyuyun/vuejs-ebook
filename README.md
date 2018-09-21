@@ -49,3 +49,6 @@ epub电子书文件
 /src/Ebook.vue
 ```
 电子书渲染组件
+
+## 参考来源：
+[慕课网-快速入门Web阅读器开发](https://www.imooc.com/learn/1038)
