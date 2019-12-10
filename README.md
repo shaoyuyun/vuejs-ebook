@@ -41,7 +41,7 @@ epub电子书文件
 呼出菜单时的下部分菜单组件（包括字号设置、主题选择和阅读进度设置）  
 
 ```
-/src/components/Content.vuw
+/src/components/Content.vue
 ```
 下部分菜单中的目录选择组件  
 
